@@ -47,7 +47,7 @@ switch(operand){
     case'-':
     input_var.value += '-';
     break;
-    case'X':
+    case'*':
     input_var.value += '*';
     break;
     case'/':
